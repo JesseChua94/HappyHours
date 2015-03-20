@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HappyHours</string>
+
+    <string name="happy_hours">Happy Hours</string>
+    <string name="new_activity">New Activity</string>
+    <string name="trends">Trends</string>
+    <string name="action_settings">Settings</string>
+    <string name="rating">Happiness rating</string>
+    <string name="hint">Activity name!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
