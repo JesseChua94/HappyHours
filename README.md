@@ -1,6 +1,6 @@
 # HappyHours
 
-App that people can use to record the amount of time they spend doing the things they enjoy. 
+Unfinished app that people can use to record the amount of time they spend doing the things they enjoy. 
 
 Things to do:
 
